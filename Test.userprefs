@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test\TouchControlClass.cs">
+    <Files>
+      <File FileName="Test\Main.cs" Line="23" Column="4" />
+      <File FileName="Test\TouchClassListener.cs" Line="52" Column="4" />
+      <File FileName="Test\TouchControlClass.cs" Line="84" Column="9" />
+      <File FileName="Test\TestClass.cs" Line="65" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="Test" expanded="True">
+            <Node name="TouchPointsNew.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
